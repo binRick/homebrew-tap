@@ -3,7 +3,7 @@
 # Don't hand-edit the version/sha unless the publish flow is broken.
 cask "rbterm" do
   version "0.3.27"
-  sha256 "8f74f7c2c2e541862532631755c136f4f207164c041017d50e74a9ec3df80372"
+  sha256 "ac71c2252d22be9c7a8d566c62312f05afcdcafe2da52b3dce262735bef3ab5a"
 
   url "https://rbterm.ximg.app/updates/macos-arm64/rbterm-#{version}.zip"
   name "rbterm"
