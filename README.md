@@ -5,14 +5,14 @@
 
 | Language | Files | Lines | Blanks | Comments | Code | Complexity |
 |---|---|---|---|---|---|---|
-| Ruby | 3 | 83 | 11 | 7 | 65 | 0 |
-| Markdown | 2 | 18 | 4 | 0 | 14 | 0 |
-| **Total** | **5** | **101** | **15** | **7** | **79** | **0** |
+| Ruby | 4 | 121 | 12 | 7 | 102 | 0 |
+| Markdown | 2 | 24 | 5 | 0 | 19 | 0 |
+| **Total** | **6** | **145** | **17** | **7** | **121** | **0** |
 
-- **Estimated Cost to Develop (organic):** $1,879
-- **Estimated Schedule Effort (organic):** 1.27 months
-- **Estimated People Required (organic):** 0.13
-- **Processed:** 3,252 bytes (0.003 megabytes)
+- **Estimated Cost to Develop (organic):** $2,941
+- **Estimated Schedule Effort (organic):** 1.50 months
+- **Estimated People Required (organic):** 0.17
+- **Processed:** 4,799 bytes (0.005 megabytes)
 
-*Generated with [scc](https://github.com/boyter/scc) on 2026-05-22*
+*Generated with [scc](https://github.com/boyter/scc) on 2026-05-26*
 <!-- scc-end -->
