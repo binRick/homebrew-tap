@@ -1,28 +1,28 @@
 class Tracep < Formula
   desc "Trace a process's network, TLS, DNS, and exec activity"
   homepage "https://github.com/binRick/tracep"
-  version "0.1.1"
+  version "0.1.2"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/binRick/tracep/releases/download/v0.1.1/tracep-darwin-arm64"
-      sha256 "f3a950bea42e89ac3121b6adae3f9f7a6d22e078507e860cb8fed24a9f44bfff"
+      url "https://github.com/binRick/tracep/releases/download/v0.1.2/tracep-darwin-arm64"
+      sha256 "a7a50a2bb0e7ec4c290eebfa24e59c8d99fcd31dae327e65bee0cd24810bb677"
     end
     on_intel do
-      url "https://github.com/binRick/tracep/releases/download/v0.1.1/tracep-darwin-amd64"
-      sha256 "dfa6ef1fd101199a53f64c230c24f3f44ad9246bb1031848e0f64f56d92be6c6"
+      url "https://github.com/binRick/tracep/releases/download/v0.1.2/tracep-darwin-amd64"
+      sha256 "5db1f528c810a7711f12cd1728352bc9b4c11fcff46eba3d0b6152285f6aa9a7"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/binRick/tracep/releases/download/v0.1.1/tracep-linux-arm64"
-      sha256 "1b9fbed6dffca1fa87e9336a3aff3c94ba952bb5e395e8330b47ae6b847704c6"
+      url "https://github.com/binRick/tracep/releases/download/v0.1.2/tracep-linux-arm64"
+      sha256 "fd86e7f06d0b2d76d3891f82a421d5d4e9fe06dac1fc71cd50875031b14e1935"
     end
     on_intel do
-      url "https://github.com/binRick/tracep/releases/download/v0.1.1/tracep-linux-amd64"
-      sha256 "2674fcb9322554fa327dbb6e7a99830c3032a4e60781150a3f87f8d4085e03a1"
+      url "https://github.com/binRick/tracep/releases/download/v0.1.2/tracep-linux-amd64"
+      sha256 "3b01ba3801f3c0fd6c614757249f76704645d6cedfd34141b6edcaaf4487e732"
     end
   end
 
