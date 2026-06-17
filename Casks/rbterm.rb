@@ -20,7 +20,7 @@ cask "rbterm" do
   # Apple Silicon only — current build target. Add :intel branch
   # here if/when an x86_64 mac build is published.
   depends_on arch: :arm64
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "rbterm.app"
 
