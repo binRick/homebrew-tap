@@ -3,6 +3,13 @@
 <!-- scc-start -->
 ## Code Statistics
 
+```mermaid
+pie showData
+    title Code by language
+    "Ruby" : 102
+    "Markdown" : 19
+```
+
 | Language | Files | Lines | Blanks | Comments | Code | Complexity |
 |---|---|---|---|---|---|---|
 | Ruby | 4 | 121 | 12 | 7 | 102 | 0 |
@@ -14,5 +21,5 @@
 - **Estimated People Required (organic):** 0.17
 - **Processed:** 4,802 bytes (0.005 megabytes)
 
-*Generated with [scc](https://github.com/boyter/scc) on 2026-05-26*
+*Generated with [scc](https://github.com/boyter/scc) on 2026-09-09*
 <!-- scc-end -->
