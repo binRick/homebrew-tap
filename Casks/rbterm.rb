@@ -2,8 +2,8 @@
 # rbterm repo. Each release: version + sha256 update + commit + push.
 # Don't hand-edit the version/sha unless the publish flow is broken.
 cask "rbterm" do
-  version "0.4.07"
-  sha256 "64ab0f13b97fdb03bfdd861b3beddd13ceabc63ef32abfad708aaff7caa88eaa"
+  version "0.4.08"
+  sha256 "3231c0ea35f1c763b1774c9592d16ea00adf53be97be6d7d246f933f596f73d0"
 
   url "https://rbterm.ximg.app/updates/macos-arm64/rbterm-#{version}.zip"
   name "rbterm"
