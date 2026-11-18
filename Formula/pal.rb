@@ -1,17 +1,17 @@
 class Pal < Formula
   desc "Terminal palette switcher — list, preview, and apply colour palettes"
   homepage "https://github.com/binRick/pal"
-  version "0.2.2"
+  version "0.2.3"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/binRick/pal/releases/download/v0.2.2/pal-darwin-arm64.tar.gz"
-      sha256 "3ba534d8f2e34fa0d2c62d40e1b32179572b21651646398197aee0c9588de741"
+      url "https://github.com/binRick/pal/releases/download/v0.2.3/pal-darwin-arm64.tar.gz"
+      sha256 "90ed3bba135861911706161769957906b41cb6e2cb672d027245de1babe0e5b5"
     end
     on_intel do
-      url "https://github.com/binRick/pal/releases/download/v0.2.2/pal-darwin-amd64.tar.gz"
-      sha256 "9dff1460806c87334f13a55a7b729a2f223d88113aea6c77b407a7ea461ec73b"
+      url "https://github.com/binRick/pal/releases/download/v0.2.3/pal-darwin-amd64.tar.gz"
+      sha256 "1d2eb12505b2d774d8c391b74ec0c641e58b70c8d7344ed41457d55a491a64ec"
     end
   end
 
